@@ -11,9 +11,7 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             Console.WriteLine("hallo kanker boef");
-
-
-            Console.WriteLine("Nee");
+            Console.ReadKey();
         }
     }
 }
